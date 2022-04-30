@@ -1,6 +1,7 @@
 
+package com.fibonaci;
 
-public class Hel {
+public class FibWithArray {
     public static void main(String[] args) {
         System.out.println("Hello World");
         int [] arr;
