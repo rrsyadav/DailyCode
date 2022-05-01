@@ -12,6 +12,8 @@ package com.modDiv;
                     count++;
                 }
                 n=n/10;
+
+                // comment
             }
             System.out.println(count);
         }
